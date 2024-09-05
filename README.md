@@ -1,10 +1,6 @@
 # Customer-Retention-Analysis
 ![Customer Retention Analysis](https://github.com/user-attachments/assets/33239c18-1e50-4a66-8cfa-dbb5c91b1db6)
 
-Here’s a complete description for your GitHub project that will effectively showcase your **Customer Retention Analysis** project to your audience:
-
----
-
 # Customer Retention Analysis Dashboard
 
 ### Project Overview:
